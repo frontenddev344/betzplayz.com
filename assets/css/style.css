@@ -397,15 +397,15 @@ footer .footer_right ul li a:hover {
 }
 
 .left_main_hotel img{
-  -webkit-transform: scale(1.4);
-  transform: scale(1.4);
+  -webkit-transform: scale(1);
+  transform: scale(1);
   -webkit-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
 
 }
 .left_main_hotel img:hover{
-	-webkit-transform: scale(1);
-	transform: scale(1);
+	-webkit-transform: scale(1.4);
+	transform: scale(1.4);
 }
 .right_side_first img{
   transition: all .5s;
