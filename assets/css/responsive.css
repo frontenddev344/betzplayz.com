@@ -159,6 +159,9 @@
 	h3 {
 		font-size: 22px;
 	}
+	.sub_banner_content h4 {
+		margin: 0 20px;
+	}
 }
 
 @media (max-width: 575px) {
