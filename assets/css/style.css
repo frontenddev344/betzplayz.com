@@ -414,3 +414,28 @@ footer .footer_right ul li a:hover {
 {
   filter: brightness(0.5);
 }
+.form-control {
+    outline: unset;
+    border: 1px solid #0000001f;
+    padding: 10px;
+	border-radius: unset;
+}
+.sub_btn {
+    width: 170px;
+    background: #ed5b31;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 500;
+    border: 1px solid transparent;
+    border-radius: 5px;
+	transition:all 0.5s ;
+}
+.sub_btn:hover{
+	background-color: #fff;
+	color: var(--main-color);
+	border: 1px solid var(--main-color);
+}
+.contact_us_form_parent
+{
+	background-color: var(--bg-light);
+}
